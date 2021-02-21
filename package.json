@@ -1,7 +1,6 @@
 {
   "name": "discord-bot",
   "version": "1.0.0",
-  "description": "",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +16,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wabailey/First-Bot-Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wabailey/First-Bot-Test/issues"
+  },
+  "homepage": "https://github.com/wabailey/First-Bot-Test#readme",
+  "description": ""
 }
