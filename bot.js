@@ -13,7 +13,7 @@ client.on("ready", () => {
 });
 
 client.on("messageDelete", msg => {
-    msg.channel.send("MESSAGE REDACTED NOTHING TO SEE HERE")
+    msg.channel.send("MESSAGE REDACTED, NOTHING TO SEE HERE")
 })
 
 client.on("message", msg => {
